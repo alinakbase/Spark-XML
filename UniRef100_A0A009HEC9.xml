@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="no" ?>
+<UniRef xmlns="http://uniprot.org/uniref" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniref http://www.uniprot.org/docs/uniref.xsd">
+<entry id="UniRef100_A0A009HEC9" updated="2024-11-27" xmlns="http://uniprot.org/uniref">
+  <name>Cluster: Uncharacterized protein</name>
+  <property type="member count" value="2"/>
+  <property type="common taxon" value="Acinetobacter"/>
+  <property type="common taxon ID" value="469"/>
+  <representativeMember>
+    <dbReference type="UniProtKB ID" id="A0A009HEC9_9GAMM">
+      <property type="source organism" value="Acinetobacter sp. 1295259"/>
+      <property type="NCBI taxonomy" value="1310608"/>
+      <property type="protein name" value="Uncharacterized protein"/>
+      <property type="UniParc ID" value="UPI0002D69BE5"/>
+      <property type="UniRef90 ID" value="UniRef90_F0KLV9"/>
+      <property type="UniRef50 ID" value="UniRef50_F0KLV9"/>
+      <property type="UniProtKB accession" value="A0A009HEC9"/>
+      <property type="length" value="52"/>
+      <property type="isSeed" value="true"/>
+    </dbReference>
+    <sequence length="52" checksum="2B7659DAD9275B95">MEPQKVYLFSAKKHKSLLDFYKKIIHSSESVTFDKLSNNLLAEFLELDLLYC</sequence>
+  </representativeMember>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0AAW8KTX9_9GAMM">
+      <property type="source organism" value="Acinetobacter sp. 11520"/>
+      <property type="NCBI taxonomy" value="3058487"/>
+      <property type="protein name" value="Uncharacterized protein"/>
+      <property type="UniParc ID" value="UPI0002D69BE5"/>
+      <property type="UniRef90 ID" value="UniRef90_F0KLV9"/>
+      <property type="UniProtKB accession" value="A0AAW8KTX9"/>
+      <property type="length" value="52"/>
+    </dbReference>
+  </member>
+</entry>
+
+</UniRef>

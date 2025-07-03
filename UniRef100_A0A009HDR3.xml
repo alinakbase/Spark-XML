@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="no" ?>
+<UniRef xmlns="http://uniprot.org/uniref" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniref http://www.uniprot.org/docs/uniref.xsd">
+<entry id="UniRef100_A0A009HDR3" updated="2025-02-05" xmlns="http://uniprot.org/uniref">
+  <name>Cluster: Sec-independent protein translocase protein TatC</name>
+  <property type="member count" value="2"/>
+  <property type="common taxon" value="Acinetobacter"/>
+  <property type="common taxon ID" value="469"/>
+  <representativeMember>
+    <dbReference type="UniProtKB ID" id="A0A009HDR3_9GAMM">
+      <property type="source organism" value="Acinetobacter sp. 1295259"/>
+      <property type="NCBI taxonomy" value="1310608"/>
+      <property type="protein name" value="Sec-independent protein translocase protein TatC"/>
+      <property type="UniParc ID" value="UPI000309189D"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A2I6LXN8"/>
+      <property type="UniRef50 ID" value="UniRef50_N8ZN81"/>
+      <property type="UniProtKB accession" value="A0A009HDR3"/>
+      <property type="length" value="256"/>
+      <property type="isSeed" value="true"/>
+    </dbReference>
+    <sequence length="256" checksum="347DF3571B940CB0">MNQLPSTTVNNQENLDQMPIMSHLVVLRRHLFRIVGVTLFLFFCLLPFRNNTYQLLSEPLRLQLPTSSSMIATDVTATFMAPFKLNLFVALVLAMPFILYEIWSFVRPALYQKERHLALPLLIGSIVLFYAGVAFAYYITLPAILHFFISVSPETVAPMTDINSYLSFCLKLFLVFGLTFEIPIATLLLILIGVVNTKSLAEKRRFIIVGCFFVAMFITPPDAISMVMLAIPMWLLFELGLLFGKIIEKRKNHSAE</sequence>
+  </representativeMember>
+  <member>
+    <dbReference type="UniProtKB ID" id="A0AAW8L0D9_9GAMM">
+      <property type="source organism" value="Acinetobacter sp. 11520"/>
+      <property type="NCBI taxonomy" value="3058487"/>
+      <property type="protein name" value="Sec-independent protein translocase protein TatC"/>
+      <property type="UniParc ID" value="UPI000309189D"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A2I6LXN8"/>
+      <property type="UniProtKB accession" value="A0AAW8L0D9"/>
+      <property type="length" value="256"/>
+    </dbReference>
+  </member>
+</entry>
+
+</UniRef>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="no" ?>
+<UniRef xmlns="http://uniprot.org/uniref" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniref http://www.uniprot.org/docs/uniref.xsd">
+<entry id="UniRef100_A0A009HFK2" updated="2023-05-03" xmlns="http://uniprot.org/uniref">
+  <name>Cluster: WD40-like Beta Propeller Repeat family protein</name>
+  <property type="member count" value="1"/>
+  <property type="common taxon" value="Acinetobacter sp. 1295259"/>
+  <property type="common taxon ID" value="1310608"/>
+  <representativeMember>
+    <dbReference type="UniProtKB ID" id="A0A009HFK2_9GAMM">
+      <property type="source organism" value="Acinetobacter sp. 1295259"/>
+      <property type="NCBI taxonomy" value="1310608"/>
+      <property type="protein name" value="WD40-like Beta Propeller Repeat family protein"/>
+      <property type="UniParc ID" value="UPI0002FDDF63"/>
+      <property type="UniRef90 ID" value="UniRef90_A0A446ZEG8"/>
+      <property type="UniRef50 ID" value="UniRef50_A0A446ZEG8"/>
+      <property type="UniProtKB accession" value="A0A009HFK2"/>
+      <property type="length" value="308"/>
+      <property type="isSeed" value="true"/>
+    </dbReference>
+    <sequence length="308" checksum="7FF1DC01AEBA1F12">MKKIQKLLCIGIIFFNCLFQLHAAIAPTFYGKLVFHRYSDYEAWDSKLYLYNFTTQQTTLLGANWKIDHMMNGHFSPDGKWLTFMGVNSGQHYGDAWDVYVWKVGSTELPINLTQGNNKRDEDPKFIDNQRIIFKQNGDLKIIKMMDRTMTSVTQNGWDIEESMPYPMVNTTQILYAKGAGNNSRIFSIDQSGAYDTQLTNIASYYPVWWQGSRFLYVRWYSPTNPHDQIYIYDMANKQTTRLPFNNTNYDTSDPAPLDQRYMVVSLAGQTGSRGGYDLYIADSLSSSVWPLPINTNLNELGAFYTPY</sequence>
+  </representativeMember>
+</entry>
+
+</UniRef>

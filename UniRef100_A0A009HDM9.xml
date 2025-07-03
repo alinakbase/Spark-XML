@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="no" ?>
+<UniRef xmlns="http://uniprot.org/uniref" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniref http://www.uniprot.org/docs/uniref.xsd">
+<entry id="UniRef100_A0A009HDM9" updated="2021-10-27" xmlns="http://uniprot.org/uniref">
+  <name>Cluster: Zinc-type alcohol dehydrogenase-like protein</name>
+  <property type="member count" value="1"/>
+  <property type="common taxon" value="Acinetobacter sp. 1295259"/>
+  <property type="common taxon ID" value="1310608"/>
+  <representativeMember>
+    <dbReference type="UniProtKB ID" id="A0A009HDM9_9GAMM">
+      <property type="source organism" value="Acinetobacter sp. 1295259"/>
+      <property type="NCBI taxonomy" value="1310608"/>
+      <property type="protein name" value="Zinc-type alcohol dehydrogenase-like protein"/>
+      <property type="UniParc ID" value="UPI0002DDC670"/>
+      <property type="UniRef90 ID" value="UniRef90_F0KM21"/>
+      <property type="UniRef50 ID" value="UniRef50_Q2T642"/>
+      <property type="UniProtKB accession" value="A0A009HDM9"/>
+      <property type="length" value="339"/>
+      <property type="isSeed" value="true"/>
+    </dbReference>
+    <sequence length="339" checksum="56E50C1C91250718">MKAVAYQKAGPITSPEALVDIELDAPIAEGHDLLVRVQAVSVNPVDTKIRKNVSPENNQWKTLGWDAVGVVEAIGDKVTQFKIGNIVWYAGALNRQGSNSELQLVDERIAGHKPKTLEATEAAALPLTAITAWEMLFDRLQVPKNAPENTTILVIGGAGGVGSITIQLLKQLTNLTIIATASRAETQDWVTQLGADYVLDHRQPLAAQIKQLGLTAPLYVFSTTQTDQHLADIVELIAPQGRFGLIDDPEQLDIKPFKSKSVSVHWEFMFTRSIFQTEDMAKQSELLNEVSKLVDEGKIKTTVTEVISPINAENLKRVHQQIESGTTKGKIVLQGFKQN</sequence>
+  </representativeMember>
+</entry>
+
+</UniRef>

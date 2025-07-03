@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="no" ?>
+<UniRef xmlns="http://uniprot.org/uniref" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniref http://www.uniprot.org/docs/uniref.xsd">
+<entry id="UniRef100_A0A009HEY3" updated="2023-05-03" xmlns="http://uniprot.org/uniref">
+  <name>Cluster: Bacterial cellulose synthase subunit</name>
+  <property type="member count" value="2"/>
+  <property type="common taxon" value="Acinetobacter calcoaceticus/baumannii complex"/>
+  <property type="common taxon ID" value="909768"/>
+  <representativeMember>
+    <dbReference type="UniProtKB ID" id="A0A009HEY3_9GAMM">
+      <property type="source organism" value="Acinetobacter sp. 1295259"/>
+      <property type="NCBI taxonomy" value="1310608"/>
+      <property type="protein name" value="Bacterial cellulose synthase subunit"/>
+      <property type="UniParc ID" value="UPI0004517E23"/>
+      <property type="UniRef90 ID" value="UniRef90_F0KKI2"/>
+      <property type="UniRef50 ID" value="UniRef50_F0KKI2"/>
+      <property type="UniProtKB accession" value="A0A009HEY3"/>
+      <property type="length" value="614"/>
+      <property type="isSeed" value="true"/>
+    </dbReference>
+    <sequence length="614" checksum="A882FAFBCCCB8676">MKKNFDLYKTAQVLLASTSLMLAMSAHAYTWELDDISTSTKYTVEPHFFYIGKGAQWQNIQFSSDYSTESDTTLLVKYDDKLIYNTTLSGDGQVKFDIPASQSGFHRLDFIIQQYAKPTTLNQTKETFCTEDIDHLTYLSNSQLDFTPIRNEYRLKDLPDALYNPQARRPTPFVGILKYNRKEIIEASMLARLASSWTSITPVEWVDSGQTNLDPETNFIIEVIRSAAPLKGGALVQIAKPVEGVPTLSITYHTQQDLTSAVNGLINSSYVQQLSTGNAVFPNTISNPTWAQFKKIDTLADLGIQDFRLNHAEKNLFLDFPAVWQPTDILQGQIALRIQSGLLQGSNITAWIDGGLAGSMKTADLASDPVNRQFNIFAKAISNTTNFSLKLENSVIANSQCLPNAHGSLWIDTAKSTVKLPHKLKNGVAAISMTLATTPTIAVDGQSGALNIAIVLGQTAKKMLLTQAPMPLNLVRYSPSAPQSVNVRVNKDIYQQQVLMHQDIIYAPAAQNGFIVSYNNNRFDVITDSQGGAQTFMHLWEKIQHKIPNNVTKMLVSENGNIYVLQKLIVGNQKAPLVQQSSFFLLVVIISAIMIIIIFLWYWLRRNNEKTDTN</sequence>
+  </representativeMember>
+  <member>
+    <dbReference type="UniParc ID" id="UPI0005EB1601">
+      <property type="source organism" value="Acinetobacter pittii"/>
+      <property type="NCBI taxonomy" value="48296"/>
+      <property type="protein name" value="hypothetical protein"/>
+      <property type="UniRef90 ID" value="UniRef90_F0KKI2"/>
+      <property type="length" value="500"/>
+    </dbReference>
+  </member>
+</entry>
+
+</UniRef>
